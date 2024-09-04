@@ -8,7 +8,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - [X] Chapter 2: 
 - [X] Chapter 3: 
 - [X] Chapter 4: 
-- [ ] Chapter 5: 
+- [X] Chapter 5: 
 - [ ] Chapter 6: 
 - [ ] Chapter 7: 
 - [ ] Chapter 8: 
