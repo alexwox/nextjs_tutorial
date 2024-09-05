@@ -13,7 +13,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - [X] Chapter 7: 
 - [X] Chapter 8: 
 - [X] Chapter 9: 
-- [ ] Chapter 10: 
+- [X] Chapter 10: 
 - [ ] Chapter 11: 
 - [ ] Chapter 12: 
 - [ ] Chapter 13: 
