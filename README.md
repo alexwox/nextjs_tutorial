@@ -11,8 +11,8 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - [X] Chapter 5: 
 - [X] Chapter 6: 
 - [X] Chapter 7: 
-- [ ] Chapter 8: 
-- [ ] Chapter 9: 
+- [X] Chapter 8: 
+- [X] Chapter 9: 
 - [ ] Chapter 10: 
 - [ ] Chapter 11: 
 - [ ] Chapter 12: 
