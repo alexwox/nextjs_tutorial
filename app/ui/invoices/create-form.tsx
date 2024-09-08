@@ -17,14 +17,6 @@ export default function Form({
   }: {
     customers: CustomerField[];
   }) {
-<<<<<<< HEAD
-  const initialState: State = { message: null, errors: {} };
-  const [state, formAction] = useActionState(createInvoice, initialState);
-  
-  console.log(state);
-  return (
-    <form action={formAction}>
-=======
 
   const initialState: State = {
     message: null,
@@ -35,7 +27,6 @@ export default function Form({
   
   return (
     <form action={ formAction }>
->>>>>>> chapter-14
       <div className="rounded-md bg-gray-50 p-4 md:p-6">
         {/* Customer Name */}
         <div className="mb-4">
